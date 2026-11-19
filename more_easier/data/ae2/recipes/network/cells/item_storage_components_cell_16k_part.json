@@ -1,0 +1,39 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "ae2:cell_component_64k"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "ae2:cell_component_16k",
+      "count": 3
+    },
+    {
+      "chance": 0.01,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "chance": 0.01,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "chance": 0.01,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "chance": 0.01,
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "chance": 0.01,
+      "item": "ae2:quartz_glass"
+    },
+    {
+      "chance": 0.01,
+      "item": "ae2:calculation_processor"
+    }
+  ]
+}

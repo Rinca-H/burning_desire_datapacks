@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "S": {
+      "tag": "forge:ingots/steel"
+    },
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "F": {
+      "item": "ae2:fluix_dust"
+    },
+    "B": {
+      "item": "ae2:sky_stone_block"
+    }
+  },
+  "pattern": [
+    " L ",
+    "FBF",
+    " S "
+  ],
+  "result": {
+    "item": "ae2:growth_accelerator"
+  },
+  "show_notification": true
+}

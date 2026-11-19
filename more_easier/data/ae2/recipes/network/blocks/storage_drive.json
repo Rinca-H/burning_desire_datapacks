@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "item": "ae2:engineering_processor"
+    },
+    "S": {
+      "tag": "forge:ingots/steel"
+    },
+    "C": {
+      "tag": "forge:chests"
+    }
+  },
+  "pattern": [
+    " P ",
+    "SCS"
+  ],
+  "result": {
+    "item": "ae2:drive"
+  },
+  "show_notification": true
+}

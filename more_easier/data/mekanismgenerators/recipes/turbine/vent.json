@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "T": {
+      "item": "mekanismgenerators:turbine_casing"
+    },
+    "I": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "pattern": [
+    " T ",
+    "TIT",
+    " T "
+  ],
+  "result": {
+    "item": "mekanismgenerators:turbine_vent",
+    "count": 8
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:retextured_casting_basin",
+  "cast": {
+    "tag": "forge:chests"
+  },
+  "cast_consumed": true,
+  "cooling_time": 50,
+  "fluid": {
+    "amount": 100,
+    "tag": "tconstruct:molten_diamond"
+  },
+  "result": "minecraft:jukebox"
+}

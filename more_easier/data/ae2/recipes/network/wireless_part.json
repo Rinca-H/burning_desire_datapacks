@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "item": "ae2:fluix_pearl"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "Q": {
+      "item": "ae2:quartz_fiber"
+    }
+  },
+  "pattern": [
+    " P ",
+    "IQI",
+    " I "
+  ],
+  "result": {
+    "item": "ae2:wireless_receiver"
+  },
+  "show_notification": true
+}

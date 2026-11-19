@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "mekanism:steel_casing"
+    },
+    "L": {
+      "tag": "forge:ingots/lead"
+    }
+  },
+  "pattern": [
+    " L ",
+    "LSL",
+    " L "
+  ],
+  "result": {
+    "item": "mekanismgenerators:fission_reactor_casing",
+    "count": 16
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "s": {
+      "tag": "forge:stone"
+    },
+    "p": {
+      "tag": "minecraft:planks"
+    },
+    "c": {
+      "item": "minecraft:comparator"
+    },
+    "#": {
+      "tag": "forge:chests/wooden"
+    }
+  },
+  "pattern": [
+    "scs",
+    "p#p",
+    "scs"
+  ],
+  "result": {
+    "item": "sophisticatedstorage:controller"
+  }
+}

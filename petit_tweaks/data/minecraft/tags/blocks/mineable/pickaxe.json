@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "mna:manaweaving_altar",
+    "mna:manaweave_projector",
+    "mna:mana_resevoir",
+    "mna:particle_emitter",
+    "mna:redstone_trigger",
+    "mna:runeforge",
+    "mna:runic_anvil",
+    "mna:brazier",
+    "mna:seer_stone",
+    "mna:lodestar",
+    "mna:coffin",
+    "mna:slipstream_generator",
+    "mna:eldrin_matrix_arcane",
+    "mna:eldrin_matrix_ender",
+    "mna:eldrin_matrix_water",
+    "mna:eldrin_matrix_fire",
+    "mna:eldrin_matrix_earth",
+    "mna:eldrin_matrix_wind",
+    "mna:eldrin_altar",
+    "mna:eldrin_conduit_fire",
+    "mna:eldrin_conduit_water",
+    "mna:eldrin_conduit_earth",
+    "mna:eldrin_conduit_air",
+    "mna:eldrin_conduit_ender",
+    "mna:eldrin_conduit_arcane"
+  ]
+}

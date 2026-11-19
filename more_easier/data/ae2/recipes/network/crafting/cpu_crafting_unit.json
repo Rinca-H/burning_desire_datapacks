@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "L": {
+      "item": "ae2:logic_processor"
+    },
+    "C": {
+      "item": "ae2:calculation_processor"
+    }
+  },
+  "pattern": [
+    "IL",
+    "CI"
+  ],
+  "result": {
+    "item": "ae2:crafting_unit"
+  },
+  "show_notification": true
+}

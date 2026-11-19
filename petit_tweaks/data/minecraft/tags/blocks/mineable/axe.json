@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mna:delegation_station",
+    "mna:ornate_table",
+    "mna:basic_table",
+    "mna:occulus"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "L": {
+      "item": "ae2:logic_processor"
+    },
+    "Q": {
+      "item": "ae2:quartz_glass"
+    },
+    "C": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "pattern": [
+    " L ",
+    "Q Q",
+    " C "
+  ],
+  "result": {
+    "item": "ae2:molecular_assembler"
+  },
+  "show_notification": true
+}

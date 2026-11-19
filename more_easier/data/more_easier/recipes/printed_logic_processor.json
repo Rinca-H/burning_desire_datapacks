@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/gold"
+    },
+    {
+      "item": "ae2:logic_processor_press"
+    }
+  ],
+  "keepHeldItem": true,
+  "results": [
+    {
+      "item": "ae2:printed_logic_processor"
+    }
+  ]
+}

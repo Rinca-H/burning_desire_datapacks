@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "S": {
+      "tag": "forge:ingots/steel"
+    },
+    "C": {
+      "item": "minecraft:lightning_rod"
+    }
+  },
+  "pattern": [
+    " C ",
+    "S S",
+    " C "
+  ],
+  "result": {
+    "item": "ae2:charger"
+  },
+  "show_notification": true
+}
