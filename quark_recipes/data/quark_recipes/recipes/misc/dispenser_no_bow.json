@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "c:rods/wooden"
+      "tag": "forge:rods/wooden"
     },
     "D": {
       "item": "minecraft:dropper"
@@ -19,6 +19,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:dispenser"
+    "item": "minecraft:dispenser"
   }
 }

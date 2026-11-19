@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "c:ingots/iron"
+      "tag": "forge:ingots/iron"
     },
     "X": {
       "item": "minecraft:hopper"
@@ -15,6 +15,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:hopper_minecart"
+    "item": "minecraft:hopper_minecart"
   }
 }

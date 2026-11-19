@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "tag": "c:ingots/iron"
+      "tag": "forge:ingots/iron"
     },
     "X": {
       "item": "minecraft:furnace"
@@ -15,6 +15,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:furnace_minecart"
+    "item": "minecraft:furnace_minecart"
   }
 }

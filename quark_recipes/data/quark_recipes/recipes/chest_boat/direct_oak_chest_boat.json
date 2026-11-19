@@ -1,13 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "direct_chest_boat",
   "key": {
     "#": {
       "item": "minecraft:oak_planks"
     },
     "X": {
-      "tag": "c:chests/wooden"
+      "tag": "forge:chests/wooden"
     }
   },
   "pattern": [
@@ -16,6 +15,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:oak_chest_boat"
+    "item": "minecraft:oak_chest_boat"
   }
 }
