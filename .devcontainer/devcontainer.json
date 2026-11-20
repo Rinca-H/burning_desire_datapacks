@@ -1,0 +1,11 @@
+{
+  "name": "Dart Dev",
+  "image": "dart:stable",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Dart-Code.dart-code"
+      ]
+    }
+  }
+}
